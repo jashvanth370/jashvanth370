@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Jashvanth</h1>
 <p>Undergraduate Software Engineer</p>
-<p align="center">
+<p align="left">
    <img src="https://komarev.com/ghpvc/?username=thanoo120&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
 </p>
 <h2>🚀 Languages and Tools I Use</h2>
