@@ -9,7 +9,8 @@ Passionate about building modern web and mobile applications, learning new techn
 ## 🚀 Languages and Tools I Use
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socket/socket.io-original.svg" alt="Java" width="42" height="42"/>
+<img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="42" height="42"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.io" width="42" height="42"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="42" height="42"/>
