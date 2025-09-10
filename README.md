@@ -1,6 +1,8 @@
-# Hi 👋, I'm Jashvanth
-**Undergraduate Software Engineer**  
-Passionate about building modern web and mobile applications, learning new technologies, and contributing to open-source projects.
+Hi 👋, I'm Jashvanth
+
+Undergraduate Software Engineer | Intern at Boffo System Labs
+
+Passionate about building modern web and mobile applications, exploring cloud solutions, and contributing to open-source projects. Currently gaining hands-on experience as an Intern Software Engineer at Boffo System Labs, where I work on real-world projects involving authentication, cloud services, and full-stack development.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jashvanth370&label=Profile%20views&color=0e75b6&style=flat)
 
