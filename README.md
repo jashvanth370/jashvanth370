@@ -52,5 +52,9 @@ Passionate about building modern web and mobile applications, exploring cloud so
 ---
 
 ## ⚡️ Where to Find Me
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balakirushnan-jashvanth-736a72280/)  
-[![Facebook](https://img.shields.io/badge/-Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jv.jashva)
+[![Facebook](https://img.shields.io/badge/-Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jv.jashva)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jashvanth370)  
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jashvanth)
+
