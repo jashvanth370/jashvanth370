@@ -1,12 +1,17 @@
 Hi 👋, I'm Jashvanth
 
-Undergraduate Software Engineer | Intern at Boffo System Labs
+Undergraduate Software Engineer | Intern at Boffo System Labs 
 
 Passionate about building modern web and mobile applications, exploring cloud solutions, and contributing to open-source projects. Currently gaining hands-on experience as an Intern Software Engineer at Boffo System Labs, where I work on real-world projects involving authentication, cloud services, and full-stack development.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jashvanth370&label=Profile%20views&color=0e75b6&style=flat)
-
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nipunsampath/nipunsampath/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="[github-snake.sv](https://raw.githubusercontent.com/nipunsampath/nipunsampath/output/github-contribution-grid-snake.svg)g">
+  <img alt="github-snake" src="github-snake.svg">
+</picture>
 
 ## 🚀 Languages and Tools I Use
 <p>
@@ -34,14 +39,6 @@ Passionate about building modern web and mobile applications, exploring cloud so
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42"/>
 </p>
 
----
-
-## 📚 Currently Learning
-- Angular & TypeScript for frontend development
-- C# & .NET for backend API development
-- SQL Server for advanced database management
-
----
 
 ## 📊 GitHub Stats
 ![Jashvanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=jashvanth370&show_icons=true&locale=en)  
