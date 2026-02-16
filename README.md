@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm jashvanth 👋</h1>
 
 <p align="center">
-  <a href="https://jashvanth370.github.io/Portfolio/">🌐 Portfolio</a> •
+  <a href="https://jashvanth370.github.io/Jashvanth_Portfolio/">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/balakirushnan-jashvanth-736a72280/">💼 LinkedIn</a> •
   <!-- <a href="https://twitter.com/_nsa94">🐦 Twitter</a> • -->
   <a href="mailto:balakirushnanjashvanth@gmail.com">✉️ Email</a>
