@@ -1,11 +1,22 @@
-Hi 👋, I'm Jashvanth
+<h1 align="center">Hey there! I'm jashvanth 👋</h1>
+
+<p align="center">
+  <a href="https://jashvanth370.github.io/Portfolio/">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/balakirushnan-jashvanth-736a72280/">💼 LinkedIn</a> •
+  <!-- <a href="https://twitter.com/_nsa94">🐦 Twitter</a> • -->
+  <a href="mailto:balakirushnanjashvanth@gmail.com">✉️ Email</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jashvanth370&label=Profile%20views&color=0e75b6&style=flat&color=blue" alt="Profile views"/>
+  <!-- <img src="https://img.shields.io/badge/Role-Senior%20Developer-blueviolet?style=flat-square"/> -->
+  <img src="https://img.shields.io/badge/Location-Kelaniya,%20Sri%20Lanka-orange?style=flat-square"/>
+</p>
 
 Undergraduate Software Engineer | Intern at Boffo System Labs 
 
 Passionate about building modern web and mobile applications, exploring cloud solutions, and contributing to open-source projects. Currently gaining hands-on experience as an Intern Software Engineer at Boffo System Labs, where I work on real-world projects involving authentication, cloud services, and full-stack development.
 
-![Profile Views](https://komarev.com/ghpvc/?username=jashvanth370&label=Profile%20views&color=0e75b6&style=flat)
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nipunsampath/nipunsampath/output/github-contribution-grid-snake-dark.svg">
@@ -13,8 +24,8 @@ Passionate about building modern web and mobile applications, exploring cloud so
   <img alt="github-snake" src="github-snake.svg">
 </picture>
 
-## 🚀 Languages and Tools I Use
-<p>
+### 🚀 Languages and Tools I Use
+<p><br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/>
 <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="42" height="42"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.io" width="42" height="42"/>
@@ -42,11 +53,18 @@ Passionate about building modern web and mobile applications, exploring cloud so
 
 ## 📊 GitHub Stats
 ![Jashvanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=jashvanth370&show_icons=true&locale=en)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jashvanth370)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jashvanth370&show_icons=true&locale=en&layout=compact)  
 [![Trophies](https://github-profile-trophy.vercel.app/?username=jashvanth370)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jashvanth370&show_icons=true&theme=radical" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jashvanth370&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jashvanth370&theme=redical&bg_color=0d1117&hide_border=true" />
+</p>
 
 ## ⚡️ Where to Find Me
 
