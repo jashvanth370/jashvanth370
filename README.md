@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Location-Kelaniya,%20Sri%20Lanka-orange?style=flat-square"/>
 </p>
 
-Undergraduate Software Engineer | Intern at Boffo System Labs 
+Undergraduate Software Engineer 
 
 Passionate about building modern web and mobile applications, exploring cloud solutions, and contributing to open-source projects. Currently gaining hands-on experience as an Intern Software Engineer at Boffo System Labs, where I work on real-world projects involving authentication, cloud services, and full-stack development.
 
