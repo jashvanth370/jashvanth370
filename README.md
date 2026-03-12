@@ -15,7 +15,7 @@
 
 Undergraduate Software Engineer 
 
-Passionate about building modern web and mobile applications, exploring cloud solutions, and contributing to open-source projects. Currently gaining hands-on experience as an Intern Software Engineer at Boffo System Labs, where I work on real-world projects involving authentication, cloud services, and full-stack development.
+Software Engineer specializing in Angular and .NET, with professional experience in authentication systems, cloud services, and full-stack development gained at Boffo System Labs. Driven by a passion for building reliable, modern applications. Currently open to full-time opportunities.
 
 
 <picture>
