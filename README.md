@@ -27,7 +27,6 @@ Software Engineer specializing in Angular and .NET, with professional experience
 
 ### 🚀 Languages and Tools I Use
 
-### 🛠️ Languages and Tools:
 <p align="left">
 <!-- Frontend -->
 <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML"/>
