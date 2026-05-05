@@ -11,6 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=jashvanth370&label=Profile%20views&color=0e75b6&style=flat&color=blue" alt="Profile views"/>
   <!-- <img src="https://img.shields.io/badge/Role-Senior%20Developer-blueviolet?style=flat-square"/> -->
   <img src="https://img.shields.io/badge/Location-Kelaniya,%20Sri%20Lanka-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square"/>
 </p>
 
 Undergraduate Software Engineer 
@@ -54,8 +55,11 @@ Software Engineer specializing in Angular and .NET, with professional experience
 ## 📊 GitHub Stats
 ![Jashvanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=jashvanth370&show_icons=true&locale=en)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jashvanth370&show_icons=true&locale=en&layout=compact)  
-[![Trophies](https://github-profile-trophy.vercel.app/?username=jashvanth370)](https://github.com/ryo-ma/github-profile-trophy)
 
+🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jashvanth370&theme=radical&no-frame=true&row=1&column=7" />
+</p>
 ---
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jashvanth370&show_icons=true&theme=radical" />
