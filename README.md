@@ -26,29 +26,35 @@ Software Engineer specializing in Angular and .NET, with professional experience
 </picture>
 
 ### 🚀 Languages and Tools I Use
-<p><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/>
-<img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="42" height="42"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.io" width="42" height="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="42" height="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="42" height="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="42" height="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="42" height="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="42" height="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="42" height="42"/>
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="42" height="42"/>
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="42" height="42"/>
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="42" height="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="42" height="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="42" height="42"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="42" height="42"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42"/>
+
+### 🛠️ Languages and Tools:
+<p align="left">
+<!-- Frontend -->
+<img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML"/>
+<img src="https://img.icons8.com/color/48/css3.png" alt="CSS"/>
+<img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
+<img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript"/>
+<img src="https://img.icons8.com/color/48/angularjs.png" alt="Angular"/>
+<img src="https://img.icons8.com/color/48/react-native.png" alt="React"/>
+<!-- Backend -->
+<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
+<img src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="C#"/>
+<img src="https://img.icons8.com/color/48/.net-framework.png" alt=".NET"/>
+<img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot"/>
+<img src="https://img.icons8.com/color/48/socket-io.png" alt="Socket.io"/>
+<!-- Mobile -->
+<img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter"/>
+<img src="https://img.icons8.com/color/48/dart.png" alt="Dart"/>
+<img src="https://img.icons8.com/color/48/kotlin.png" alt="Kotlin"/>
+<img src="https://img.icons8.com/color/48/android-os.png" alt="Android"/>
+<!-- Databases -->
+<img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL Server"/>
+<img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
+<img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
+<!-- Tools & Design -->
+<img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma"/>
+<img src="https://img.icons8.com/color/48/adobe-photoshop.png" alt="Photoshop"/>
+<img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
 </p>
 
 
