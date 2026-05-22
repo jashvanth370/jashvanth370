@@ -4,7 +4,8 @@
   <a href="https://jashvanth370.github.io/Jashvanth_Portfolio/">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/balakirushnan-jashvanth-736a72280/">💼 LinkedIn</a> •
   <!-- <a href="https://twitter.com/_nsa94">🐦 Twitter</a> • -->
-  <a href="mailto:balakirushnanjashvanth@gmail.com">✉️ Email</a>
+  <a href="mailto:balakirushnanjashvanth@gmail.com">✉️ Email</a> •
+  <a href="https://medium.com/@jashvanth/"> Medium </a> •
 </p>
 
 <p align="center">
