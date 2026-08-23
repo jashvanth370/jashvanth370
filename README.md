@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  Associate Software Engineer · Full-Stack · Angular · .NET · Cloud<br/>
+  Intern Software Engineer · Full-Stack · Angular · .NET · Cloud<br/>
   Passionate about building reliable, modern applications. Currently open to full-time opportunities.
 </p>
 
