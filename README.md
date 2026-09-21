@@ -17,6 +17,10 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit-DC2626?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0a0a0a" alt="Portfolio" />
   </a>
   &nbsp;
+  <a href="https://leetcode.com/u/Balakirushnan_Jashvanth/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Solve-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
+  </a>
+  &nbsp;
   <a href="https://medium.com/@jashvanth/" target="_blank">
     <img src="https://img.shields.io/badge/Medium-Read-DC2626?style=for-the-badge&logo=medium&logoColor=white&labelColor=0a0a0a" alt="Medium" />
   </a>
@@ -111,6 +115,22 @@
 
 ---
 
+<h2 align="center">🧩 LeetCode Problem Solving</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Balakirushnan_Jashvanth/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Balakirushnan_Jashvanth?theme=dark&font=Karma&border=0&radius=12" width="480" alt="LeetCode Stats Card" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Balakirushnan_Jashvanth/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode Profile" />
+  </a>
+</p>
+
+---
+
 <h2 align="center">🛠️ Tech Stack & Skills</h2>
 
 <p align="center"><b>Programming Languages</b></p>
@@ -166,7 +186,7 @@
 <h2 align="center">⚡ Contribution Journey</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jashvanth370&bg_color=0a0a0a&color=ef4444&line=ef4444&point=ffffff&area=true&area_color=ef4444&hide_border=true" width="100%" alt="Contribution Activity Graph" />
+  <img src="https://raw.githubusercontent.com/jashvanth370/jashvanth370/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
 </p>
 
 ---
@@ -207,10 +227,6 @@
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:DC2626&height=120&section=footer" width="100%" alt="Footer" />
-</p>
 
 <p align="center">
   <img src="assets/footer.svg" width="100%" alt="Footer" />
