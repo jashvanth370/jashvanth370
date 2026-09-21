@@ -157,6 +157,10 @@
   <img src="https://streak-stats.demolab.com/?user=jashvanth370&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="480" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="assets/quote.svg" width="100%" style="max-width: 720px;" alt="Code and Art Quote" />
+</p>
+
 ---
 
 <h2 align="center">⚡ Contribution Journey</h2>
@@ -206,4 +210,8 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:DC2626&height=120&section=footer" width="100%" alt="Footer" />
+</p>
+
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Footer" />
 </p>
