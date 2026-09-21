@@ -185,9 +185,8 @@
 
 <h2 align="center">⚡ Contribution Journey</h2>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/ef4444/jashvanth370" width="100%" alt="GitHub Contribution Chart" />
-</p>
+<img src="https://raw.githubusercontent.com/jashvanth370/jashvanth370/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
+
 
 ---
 
