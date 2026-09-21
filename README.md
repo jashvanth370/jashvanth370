@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:DC2626&height=200&section=header&text=Balakirushnan%20Jashvanth&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineering%20Undergraduate&descSize=18&descAlignY=62" width="100%" alt="Balakirushnan Jashvanth Header" />
+  <img src="assets/header.svg" width="100%" alt="Balakirushnan Jashvanth Header" />
 </p>
 
 <p align="center">
