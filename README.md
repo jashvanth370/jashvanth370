@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://jashvanth370.github.io/Jashvanth_Portfolio/" target="_blank">
+  <a href="https://react-portfolio-13obb8jvt-jashvanth370s-projects.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-DC2626?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0a0a0a" alt="Portfolio" />
   </a>
   &nbsp;
