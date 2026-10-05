@@ -119,7 +119,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/Balakirushnan_Jashvanth/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Balakirushnan_Jashvanth?theme=dark&font=Karma&border=0&radius=12" width="480" alt="LeetCode Stats Card" />
+    <img src="https://leetcard.jacoblin.cool/Balakirushnan_Jashvanth?theme=dark&font=Karma&border=0&radius=12&v=2" width="480" alt="LeetCode Stats Card" />
   </a>
 </p>
 
