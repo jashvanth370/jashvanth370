@@ -82,7 +82,7 @@
 <tr>
 <td width="50%" align="center" style="padding: 14px;">
   <h4>🌐 Portfolio</h4>
-  <p><a href="https://jashvanth370.github.io/Jashvanth_Portfolio/" target="_blank"><b>Jashvanth_Portfolio</b></a><br /><sub>Projects &amp; About Me</sub></p>
+  <p><a href="https://react-portfolio-beige-ten-69.vercel.app/" target="_blank"><b>Jashvanth_Portfolio</b></a><br /><sub>Projects &amp; About Me</sub></p>
 </td>
 <td width="50%" align="center" style="padding: 14px;">
   <h4>✍️ Writing</h4>
